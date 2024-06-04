@@ -1,2 +1,3 @@
-# LEGION-OS
-a test to see if bot works or not
+CONFIGURATION.NIX Y
+HOMEMANAGER Y
+FLAKES N
