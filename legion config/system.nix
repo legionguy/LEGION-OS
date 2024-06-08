@@ -1,0 +1,31 @@
+{
+  config,
+  lib,
+  pkgs,
+  ...
+  }:
+  {
+  environment.systemPackages = with pkgs; [
+    nmap
+    wget2
+    curl
+    sudo
+    uutils-coreutils-noprefix
+    btop
+    fastfetch
+    micro
+    gparted
+    discord
+    blender
+    spotify
+    obs-studio
+    qbittorrent
+    vlc
+    vscodium-fhs
+    direnv
+    android-tools
+    zip
+    unzip
+    busybox
+  ];
+  }
