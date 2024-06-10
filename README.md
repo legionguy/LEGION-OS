@@ -1,4 +1,17 @@
-This is legion os , if you find anything sus make a pull request . DONT DISTURB ME also DONT MAKE A PULL REQUEST TO UPDATE THIS FUCKING REDME >>> Thank you for reading
+HI , WELCOME TO LEGION OS
 
+WHAT I DO ??
 
-I CANT IMPORT HOME MANAGER IN IT ,, HELPPPPP
+our main focus is to make stuff for users as much as possible in config.nix and setup system as fast as possible with everything you need beautifully according to your job 
+
+WHAT DO I USE ??
+
+we use home manager ansd nix repo
+
+HOW CAN I CONTRIBUTE ??
+
+open a pr and left everything on me
+
+WHAT I SHOULD NOT DO WHILE CONTRIBUTING ?? 
+
+dont open pr just to fuck around or update readme
