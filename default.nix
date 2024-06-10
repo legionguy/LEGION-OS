@@ -1,5 +1,5 @@
 # default.nix
-{ pkgs ? import <nixpkgs> {} }:
+{ import <nixpkgs> {} }:
 
 pkgs.stdenv.mkDerivation rec {
   pname = "legion-os";
